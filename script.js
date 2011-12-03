@@ -20,11 +20,20 @@ $(document).ready(function() {
         }
     
         var width = 1200;
-        var height = 400;
+        var height = 450;
         var padding = 40;
+
+
+        var m = [80, 80, 80, 80],
+        w = 960 - m[1] - m[3],
+        h = 500 - m[0] - m[2],
+        parse = d3.time.format("%b %Y").parse;
 
         var x = d3.time.scale().domain([new Date(1989, 0, 1), new Date(2011, 11, 31)]).range([0, width]);
         var y = d3.scale.linear().domain([0, 22]).range([0, height])
+        
+        var xAxis = d3.svg.axis().scale(x).tickSize(-h).tickSubdivide(true)
+        var date_format = d3.time.format("%Y");
 
         var timeline = d3.select("#timeline")
             .append('svg:svg')
@@ -36,13 +45,25 @@ $(document).ready(function() {
             .attr("transform", "translate("+padding+","+padding+")")
 
         axisGroup.selectAll("line")
-             .data(x.ticks(10))
-           .enter().append("svg:line")
-             .attr("x1", x)
-             .attr("x2", x)
-             .attr("y1", 0)
-             .attr("y2", height)
-             // .attr("stroke", "#ccc");
+            .data(x.ticks(10))
+            .enter().append("svg:line")
+                .attr("x1", x)
+                .attr("x2", x)
+                .attr("y1", 0)
+                .attr("y2", 10)
+                .attr("stroke", "#bbb")
+                .attr("stroke-width", 1)
+        
+        axisGroup.selectAll("text.rule")
+            .data(x.ticks(10))
+            .enter().append("svg:text")
+                .attr("class", "rule")
+                .attr("x", function(d){ return x(d)+26; })
+                .attr("y", 0)
+                .attr("dy", -3)
+                .attr("text-anchor", "middle")
+                .text(date_format)
+                
         
         // draw political parties
         var line_counter = 0;
@@ -62,15 +83,15 @@ $(document).ready(function() {
                     .attr("y1", function()  { d.line = line_counter; return y(line_counter); })
                     .attr("y2", function()  { return y(line_counter); })
                     .attr("stroke", "#ccc")
-                    .attr("stroke-width", '3')
+                    .attr("stroke-width", '6')
                     .attr("id", function(d) { return "stranka_"+d.id; })
                     .on('mouseover', function(d,i){
-                        $('#title').html(d.ime);
-                        $(this).attr('stroke-width', '5').attr("stroke", 'red');
+                        $('#title').html(d.ime + ' ('+d.okrajsava+')');
+                        $(this).attr("stroke", 'red');
                     })
                     .on('mouseout', function(d,i){
                         console.log('leave');
-                        $(this).attr('stroke-width', '3').attr("stroke", '#ccc');
+                        $(this).attr("stroke", '#ccc');
                     })
 
         })
