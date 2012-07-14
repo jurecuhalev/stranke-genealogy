@@ -3,9 +3,12 @@ $(document).ready(function() {
     function convertDate(dateArray) {
         y = dateArray[0]; m = dateArray[1]-1; d = dateArray[2];
 
-        if (y === 999) {
+        if (y === 9999) {
             return new Date();
         };
+        if (y < 1989) {
+            return new Date(1989, 0, 1);
+        }
         return new Date(y, m, d)
     }
 
@@ -20,7 +23,7 @@ $(document).ready(function() {
         }
     
         var width = 1200;
-        var height = 450;
+        var height = 800;
         var padding = 40;
 
 
@@ -30,7 +33,7 @@ $(document).ready(function() {
         parse = d3.time.format("%b %Y").parse;
 
         var x = d3.time.scale().domain([new Date(1989, 0, 1), new Date(2011, 11, 31)]).range([0, width]);
-        var y = d3.scale.linear().domain([0, 22]).range([0, height])
+        var y = d3.scale.linear().domain([0, 43]).range([0, height])
         
         var xAxis = d3.svg.axis().scale(x).tickSize(-h).tickSubdivide(true)
         var date_format = d3.time.format("%Y");
@@ -142,4 +145,18 @@ $(document).ready(function() {
 
         
     })
+
+
+    d3.select("#download")
+     .on("mouseover", function(){
+        var html = d3.select("svg")
+            .attr("version", 1.1)
+            .attr("xmlns", "http://www.w3.org/2000/svg")
+            .node().parentNode.innerHTML;
+        
+        d3.select(this)
+            .attr("href-lang", "image/svg+xml")
+            .attr("href", "data:image/svg+xml;base64,\n" + btoa(html));
+    });
+
 });
