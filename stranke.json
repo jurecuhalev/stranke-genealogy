@@ -1,1776 +1,2000 @@
 {
-   "stranke_condensed": {
-      "1": [
-         {
-            "do": [
-               2005, 
-               4, 
-               2
-            ], 
-            "barva": "", 
-            "ime": "Zdru\u017eena lista socialnih demokratov", 
-            "spremenila_v": [
-               2
-            ], 
-            "od": [
-               1993, 
-               5, 
-               29
-            ], 
-            "id": 1, 
-            "nastala_iz": [
-               11, 
-               32, 
-               30, 
-               31, 
-               29
-            ], 
-            "okrajsava": "ZLSD"
-         }, 
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Socialni demokrati", 
-            "spremenila_v": [], 
-            "od": [
-               2005, 
-               4, 
-               2
-            ], 
-            "id": 2, 
-            "nastala_iz": [
-               1
-            ], 
-            "okrajsava": "SD"
-         }
-      ], 
-      "3": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Slovenska nacionalna stranka", 
-            "spremenila_v": [
-               28, 
-               12
-            ], 
-            "od": [
-               1991, 
-               3, 
-               17
-            ], 
-            "id": 3, 
-            "nastala_iz": [], 
-            "okrajsava": "SNS"
-         }
-      ], 
-      "4": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Nova Slovenija - Kr\u0161\u010danska ljudska stranka", 
-            "spremenila_v": [], 
-            "od": [
-               2000, 
-               8, 
-               4
-            ], 
-            "id": 4, 
-            "nastala_iz": [], 
-            "okrajsava": "NSi"
-         }
-      ], 
-      "5": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "ZARES \u2013 nova politika", 
-            "spremenila_v": [], 
-            "od": [
-               2007, 
-               10, 
-               6
-            ], 
-            "id": 5, 
-            "nastala_iz": [
-               22
-            ], 
-            "okrajsava": "Zares"
-         }
-      ], 
-      "6": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Liberalna demokracija Slovenije", 
-            "spremenila_v": [], 
-            "od": [
-               1994, 
-               3, 
-               12
-            ], 
-            "id": 6, 
-            "nastala_iz": [
-               33, 
-               13, 
-               32
-            ], 
-            "okrajsava": "LDS"
-         }
-      ], 
-      "9": [
-         {
-            "do": [
-               2002, 
-               1, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "SLS+SKD Slovenska ljudska stranka", 
-            "spremenila_v": [
-               10
-            ], 
-            "od": [
-               2000, 
-               4, 
-               15
-            ], 
-            "id": 9, 
-            "nastala_iz": [
-               7, 
-               8
-            ], 
-            "okrajsava": "SLS+SKD"
-         }, 
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Slovenska ljudska stranka", 
-            "spremenila_v": [], 
-            "od": [
-               2002, 
-               1, 
-               31
-            ], 
-            "id": 10, 
-            "nastala_iz": [
-               9
-            ], 
-            "okrajsava": "SLS"
-         }
-      ], 
-      "11": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "DeSUS - Demokrati\u010dna stranka upokojencev Slovenije", 
-            "spremenila_v": [
-               1
-            ], 
-            "od": [
-               1991, 
-               5, 
-               30
-            ], 
-            "id": 11, 
-            "nastala_iz": [], 
-            "okrajsava": "DeSUS"
-         }
-      ], 
-      "12": [
-         {
-            "do": [
-               2000, 
-               3, 
-               16
-            ], 
-            "barva": "", 
-            "ime": "Slovenska nacionalna desnica", 
-            "spremenila_v": [
-               26
-            ], 
-            "od": [
-               1993, 
-               6, 
-               5
-            ], 
-            "id": 12, 
-            "nastala_iz": [
-               3
-            ], 
-            "okrajsava": "SND"
-         }, 
-         {
-            "do": [
-               2002, 
-               2, 
-               28
-            ], 
-            "barva": "", 
-            "ime": "Stranka slovenskih narodnjakov", 
-            "spremenila_v": [
-               14
-            ], 
-            "od": [
-               2000, 
-               3, 
-               16
-            ], 
-            "id": 26, 
-            "nastala_iz": [
-               12
-            ], 
-            "okrajsava": "SSN"
-         }, 
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Stranka slovenskega naroda", 
-            "spremenila_v": [], 
-            "od": [
-               2002, 
-               2, 
-               28
-            ], 
-            "id": 14, 
-            "nastala_iz": [
-               26
-            ], 
-            "okrajsava": "SSN"
-         }
-      ], 
-      "13": [
-         {
-            "do": [
-               1994, 
-               3, 
-               12
-            ], 
-            "barva": "", 
-            "ime": "Zeleni - ekolo\u0161ko socialna stranka", 
-            "spremenila_v": [
-               6
-            ], 
-            "od": [
-               1993, 
-               3, 
-               23
-            ], 
-            "id": 13, 
-            "nastala_iz": [
-               25
-            ], 
-            "okrajsava": "Zeleni - ESS"
-         }
-      ], 
-      "15": [
-         {
-            "do": [
-               1990, 
-               2, 
-               24
-            ], 
-            "barva": "", 
-            "ime": "Socialdemokratska zveza Slovenije", 
-            "spremenila_v": [
-               16
-            ], 
-            "od": [
-               1989, 
-               2, 
-               16
-            ], 
-            "id": 15, 
-            "nastala_iz": [], 
-            "okrajsava": "SDZS"
-         }, 
-         {
-            "do": [
-               1996, 
-               3, 
-               23
-            ], 
-            "barva": "", 
-            "ime": "Socialdemokratska stranka Slovenije", 
-            "spremenila_v": [
-               27
-            ], 
-            "od": [
-               1990, 
-               2, 
-               24
-            ], 
-            "id": 16, 
-            "nastala_iz": [
-               15, 
-               43
-            ], 
-            "okrajsava": "SDSS"
-         }, 
-         {
-            "do": [
-               2003, 
-               9, 
-               13
-            ], 
-            "barva": "", 
-            "ime": "Socialno demokratska stranka", 
-            "spremenila_v": [
-               17
-            ], 
-            "od": [
-               1996, 
-               3, 
-               23
-            ], 
-            "id": 27, 
-            "nastala_iz": [
-               16
-            ], 
-            "okrajsava": "SDS"
-         }, 
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Slovenska demokratska stranka", 
-            "spremenila_v": [], 
-            "od": [
-               2003, 
-               9, 
-               13
-            ], 
-            "id": 17, 
-            "nastala_iz": [
-               27
-            ], 
-            "okrajsava": "SDS"
-         }
-      ], 
-      "20": [
-         {
-            "do": [
-               2009, 
-               7, 
-               4
-            ], 
-            "barva": "", 
-            "ime": "Stranka mladih Slovenije", 
-            "spremenila_v": [
-               21
-            ], 
-            "od": [
-               2000, 
-               8, 
-               8
-            ], 
-            "id": 20, 
-            "nastala_iz": [], 
-            "okrajsava": "SMS"
-         }, 
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Stranka mladih - Zeleni Evrope", 
-            "spremenila_v": [], 
-            "od": [
-               2009, 
-               7, 
-               4
-            ], 
-            "id": 21, 
-            "nastala_iz": [
-               20
-            ], 
-            "okrajsava": "SMS - Zeleni"
-         }
-      ], 
-      "22": [
-         {
-            "do": [
-               2008, 
-               1, 
-               10
-            ], 
-            "barva": "", 
-            "ime": "Aktivna Slovenija", 
-            "spremenila_v": [
-               5
-            ], 
-            "od": [
-               2004, 
-               5, 
-               8
-            ], 
-            "id": 22, 
-            "nastala_iz": [], 
-            "okrajsava": "AS"
-         }
-      ], 
-      "23": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Demokratska stranka Slovenije", 
-            "spremenila_v": [], 
-            "od": [
-               1994, 
-               3, 
-               12
-            ], 
-            "id": 23, 
-            "nastala_iz": [
-               24
-            ], 
-            "okrajsava": "DS"
-         }
-      ], 
-      "24": [
-         {
-            "do": [
-               1994, 
-               3, 
-               12
-            ], 
-            "barva": "", 
-            "ime": "Demokratska stranka", 
-            "spremenila_v": [
-               23
-            ], 
-            "od": [
-               1991, 
-               10, 
-               13
-            ], 
-            "id": 24, 
-            "nastala_iz": [
-               39
-            ], 
-            "okrajsava": "DS"
-         }
-      ], 
-      "25": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Zeleni Slovenije", 
-            "spremenila_v": [
-               13
-            ], 
-            "od": [
-               1989, 
-               6, 
-               11
-            ], 
-            "id": 25, 
-            "nastala_iz": [], 
-            "okrajsava": "Zeleni"
-         }
-      ], 
-      "28": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Lipa", 
-            "spremenila_v": [], 
-            "od": [
-               2008, 
-               3, 
-               6
-            ], 
-            "id": 28, 
-            "nastala_iz": [
-               3
-            ], 
-            "okrajsava": "Lipa"
-         }
-      ], 
-      "29": [
-         {
-            "do": [
-               1993, 
-               5, 
-               29
-            ], 
-            "barva": "", 
-            "ime": "Zveza komunistov Slovenije - Stranka demokrati\u010dne prenove", 
-            "spremenila_v": [
-               1
-            ], 
-            "od": [
-               1990, 
-               2, 
-               4
-            ], 
-            "id": 29, 
-            "nastala_iz": [], 
-            "okrajsava": "ZKS-SDP"
-         }
-      ], 
-      "30": [
-         {
-            "do": [
-               1993, 
-               5, 
-               29
-            ], 
-            "barva": "", 
-            "ime": "Socialdemokratska unija", 
-            "spremenila_v": [
-               1
-            ], 
-            "od": [
-               1990, 
-               12, 
-               4
-            ], 
-            "id": 30, 
-            "nastala_iz": [], 
-            "okrajsava": "SDU"
-         }
-      ], 
-      "31": [
-         {
-            "do": [
-               1993, 
-               5, 
-               29
-            ], 
-            "barva": "", 
-            "ime": "Delavska stranka", 
-            "spremenila_v": [
-               1
-            ], 
-            "od": [
-               1991, 
-               2, 
-               16
-            ], 
-            "id": 31, 
-            "nastala_iz": [], 
-            "okrajsava": "Delavska stranka"
-         }
-      ], 
-      "32": [
-         {
-            "do": [
-               1993, 
-               3, 
-               12
-            ], 
-            "barva": "", 
-            "ime": "Socialisti\u010dna stranka Slovenije", 
-            "spremenila_v": [
-               1, 
-               6
-            ], 
-            "od": [
-               1990, 
-               6, 
-               9
-            ], 
-            "id": 32, 
-            "nastala_iz": [], 
-            "okrajsava": "SSS"
-         }
-      ], 
-      "34": [
-         {
-            "do": [
-               1990, 
-               11, 
-               10
-            ], 
-            "barva": "", 
-            "ime": "Zveza socialisti\u010dne mladine Slovenije", 
-            "spremenila_v": [
-               33
-            ], 
-            "od": [
-               1974, 
-               10, 
-               4
-            ], 
-            "id": 34, 
-            "nastala_iz": [], 
-            "okrajsava": "ZSMS"
-         }, 
-         {
-            "do": [
-               1994, 
-               3, 
-               12
-            ], 
-            "barva": "", 
-            "ime": "Liberalno demokratska stranka", 
-            "spremenila_v": [
-               6
-            ], 
-            "od": [
-               1990, 
-               11, 
-               10
-            ], 
-            "id": 33, 
-            "nastala_iz": [
-               34
-            ], 
-            "okrajsava": "LDS"
-         }
-      ], 
-      "35": [
-         {
-            "do": [
-               1990, 
-               2, 
-               1
-            ], 
-            "barva": "", 
-            "ime": "Slovenska kme\u010dka zveza", 
-            "spremenila_v": [
-               36
-            ], 
-            "od": [
-               1988, 
-               5, 
-               12
-            ], 
-            "id": 35, 
-            "nastala_iz": [], 
-            "okrajsava": "SKZ"
-         }, 
-         {
-            "do": [
-               1992, 
-               6, 
-               27
-            ], 
-            "barva": "", 
-            "ime": "Slovenska kme\u010dka zveza - ljudska stranka", 
-            "spremenila_v": [
-               7
-            ], 
-            "od": [
-               1990, 
-               2, 
-               1
-            ], 
-            "id": 36, 
-            "nastala_iz": [
-               35
-            ], 
-            "okrajsava": "SKZ-LS"
-         }, 
-         {
-            "do": [
-               2000, 
-               4, 
-               15
-            ], 
-            "barva": "", 
-            "ime": "Slovenska ljudska stranka", 
-            "spremenila_v": [
-               9
-            ], 
-            "od": [
-               1992, 
-               6, 
-               27
-            ], 
-            "id": 7, 
-            "nastala_iz": [
-               36
-            ], 
-            "okrajsava": "SLS"
-         }
-      ], 
-      "37": [
-         {
-            "do": [
-               1989, 
-               11, 
-               2
-            ], 
-            "barva": "", 
-            "ime": "Slovensko kr\u0161\u010dansko socialno gibanje", 
-            "spremenila_v": [
-               8
-            ], 
-            "od": [
-               1989, 
-               10, 
-               3
-            ], 
-            "id": 37, 
-            "nastala_iz": [], 
-            "okrajsava": "SKSG"
-         }, 
-         {
-            "do": [
-               2000, 
-               4, 
-               15
-            ], 
-            "barva": "", 
-            "ime": "Slovenski kr\u0161\u010danski demokrati", 
-            "spremenila_v": [
-               9
-            ], 
-            "od": [
-               1989, 
-               11, 
-               2
-            ], 
-            "id": 8, 
-            "nastala_iz": [
-               37
-            ], 
-            "okrajsava": "SKD"
-         }
-      ], 
-      "38": [
-         {
-            "do": [
-               9999, 
-               12, 
-               31
-            ], 
-            "barva": "", 
-            "ime": "Stranka ekolo\u0161kih gibanj Slovenije", 
-            "spremenila_v": [], 
-            "od": [
-               2002, 
-               9, 
-               23
-            ], 
-            "id": 38, 
-            "nastala_iz": [], 
-            "okrajsava": "SEG"
-         }
-      ], 
-      "39": [
-         {
-            "do": [
-               1991, 
-               10, 
-               13
-            ], 
-            "barva": "", 
-            "ime": "Slovenska demokrati\u010dna zveza", 
-            "spremenila_v": [
-               24, 
-               40
-            ], 
-            "od": [
-               1989, 
-               1, 
-               11
-            ], 
-            "id": 39, 
-            "nastala_iz": [], 
-            "okrajsava": "SDZ"
-         }
-      ], 
-      "40": [
-         {
-            "do": [
-               1993, 
-               4, 
-               24
-            ], 
-            "barva": "", 
-            "ime": "Narodno demokratska stranka", 
-            "spremenila_v": [
-               41, 
-               42
-            ], 
-            "od": [
-               1991, 
-               10, 
-               13
-            ], 
-            "id": 40, 
-            "nastala_iz": [
-               39
-            ], 
-            "okrajsava": "NDS"
-         }, 
-         {
-            "do": [
-               1994, 
-               6, 
-               11
-            ], 
-            "barva": "", 
-            "ime": "Narodno demokratska stranka / SKD", 
-            "spremenila_v": [
-               43
-            ], 
-            "od": [
-               1993, 
-               4, 
-               24
-            ], 
-            "id": 42, 
-            "nastala_iz": [
-               40
-            ], 
-            "okrajsava": "NDS/SKD"
-         }, 
-         {
-            "do": [
-               1995, 
-               5, 
-               27
-            ], 
-            "barva": "", 
-            "ime": "Narodno demokratska stranka", 
-            "spremenila_v": [
-               16
-            ], 
-            "od": [
-               1994, 
-               6, 
-               11
-            ], 
-            "id": 43, 
-            "nastala_iz": [
-               42
-            ], 
-            "okrajsava": "NDS"
-         }
-      ], 
-      "41": [
-         {
-            "do": [
-               1994, 
-               7, 
-               16
-            ], 
-            "barva": "", 
-            "ime": "Narodna stranka slovenije", 
-            "spremenila_v": [], 
-            "od": [
-               1993, 
-               5, 
-               19
-            ], 
-            "id": 41, 
-            "nastala_iz": [
-               40
-            ], 
-            "okrajsava": "NSS"
-         }
-      ]
-   }, 
-   "stranke_all": {
-      "1": {
-         "do": [
-            2005, 
-            4, 
-            2
-         ], 
-         "barva": "", 
-         "ime": "Zdru\u017eena lista socialnih demokratov", 
-         "spremenila_v": [
-            2
-         ], 
-         "od": [
-            1993, 
-            5, 
-            29
-         ], 
-         "id": 1, 
-         "nastala_iz": [
-            11, 
-            32, 
-            30, 
-            31, 
-            29
-         ], 
-         "okrajsava": "ZLSD"
-      }, 
-      "2": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Socialni demokrati", 
-         "spremenila_v": [], 
-         "od": [
-            2005, 
-            4, 
-            2
-         ], 
-         "id": 2, 
-         "nastala_iz": [
-            1
-         ], 
-         "okrajsava": "SD"
-      }, 
-      "3": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Slovenska nacionalna stranka", 
-         "spremenila_v": [
-            28, 
-            12
-         ], 
-         "od": [
-            1991, 
-            3, 
-            17
-         ], 
-         "id": 3, 
-         "nastala_iz": [], 
-         "okrajsava": "SNS"
-      }, 
-      "4": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Nova Slovenija - Kr\u0161\u010danska ljudska stranka", 
-         "spremenila_v": [], 
-         "od": [
-            2000, 
-            8, 
-            4
-         ], 
-         "id": 4, 
-         "nastala_iz": [], 
-         "okrajsava": "NSi"
-      }, 
-      "5": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "ZARES \u2013 nova politika", 
-         "spremenila_v": [], 
-         "od": [
-            2007, 
-            10, 
-            6
-         ], 
-         "id": 5, 
-         "nastala_iz": [
-            22
-         ], 
-         "okrajsava": "Zares"
-      }, 
-      "6": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Liberalna demokracija Slovenije", 
-         "spremenila_v": [], 
-         "od": [
-            1994, 
-            3, 
-            12
-         ], 
-         "id": 6, 
-         "nastala_iz": [
-            33, 
-            13, 
-            32
-         ], 
-         "okrajsava": "LDS"
-      }, 
-      "7": {
-         "do": [
-            2000, 
-            4, 
-            15
-         ], 
-         "barva": "", 
-         "ime": "Slovenska ljudska stranka", 
-         "spremenila_v": [
-            9
-         ], 
-         "od": [
-            1992, 
-            6, 
-            27
-         ], 
-         "id": 7, 
-         "nastala_iz": [
-            36
-         ], 
-         "okrajsava": "SLS"
-      }, 
-      "8": {
-         "do": [
-            2000, 
-            4, 
-            15
-         ], 
-         "barva": "", 
-         "ime": "Slovenski kr\u0161\u010danski demokrati", 
-         "spremenila_v": [
-            9
-         ], 
-         "od": [
-            1989, 
-            11, 
-            2
-         ], 
-         "id": 8, 
-         "nastala_iz": [
-            37
-         ], 
-         "okrajsava": "SKD"
-      }, 
-      "9": {
-         "do": [
-            2002, 
-            1, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "SLS+SKD Slovenska ljudska stranka", 
-         "spremenila_v": [
-            10
-         ], 
-         "od": [
-            2000, 
-            4, 
-            15
-         ], 
-         "id": 9, 
-         "nastala_iz": [
-            7, 
-            8
-         ], 
-         "okrajsava": "SLS+SKD"
-      }, 
-      "10": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Slovenska ljudska stranka", 
-         "spremenila_v": [], 
-         "od": [
-            2002, 
-            1, 
-            31
-         ], 
-         "id": 10, 
-         "nastala_iz": [
-            9
-         ], 
-         "okrajsava": "SLS"
-      }, 
-      "11": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "DeSUS - Demokrati\u010dna stranka upokojencev Slovenije", 
-         "spremenila_v": [
-            1
-         ], 
-         "od": [
-            1991, 
-            5, 
-            30
-         ], 
-         "id": 11, 
-         "nastala_iz": [], 
-         "okrajsava": "DeSUS"
-      }, 
-      "12": {
-         "do": [
-            2000, 
-            3, 
-            16
-         ], 
-         "barva": "", 
-         "ime": "Slovenska nacionalna desnica", 
-         "spremenila_v": [
-            26
-         ], 
-         "od": [
-            1993, 
-            6, 
-            5
-         ], 
-         "id": 12, 
-         "nastala_iz": [
-            3
-         ], 
-         "okrajsava": "SND"
-      }, 
-      "13": {
-         "do": [
-            1994, 
-            3, 
-            12
-         ], 
-         "barva": "", 
-         "ime": "Zeleni - ekolo\u0161ko socialna stranka", 
-         "spremenila_v": [
-            6
-         ], 
-         "od": [
-            1993, 
-            3, 
-            23
-         ], 
-         "id": 13, 
-         "nastala_iz": [
-            25
-         ], 
-         "okrajsava": "Zeleni - ESS"
-      }, 
-      "14": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Stranka slovenskega naroda", 
-         "spremenila_v": [], 
-         "od": [
-            2002, 
-            2, 
-            28
-         ], 
-         "id": 14, 
-         "nastala_iz": [
-            26
-         ], 
-         "okrajsava": "SSN"
-      }, 
-      "15": {
-         "do": [
-            1990, 
-            2, 
-            24
-         ], 
-         "barva": "", 
-         "ime": "Socialdemokratska zveza Slovenije", 
-         "spremenila_v": [
-            16
-         ], 
-         "od": [
-            1989, 
-            2, 
-            16
-         ], 
-         "id": 15, 
-         "nastala_iz": [], 
-         "okrajsava": "SDZS"
-      }, 
-      "16": {
-         "do": [
-            1996, 
-            3, 
-            23
-         ], 
-         "barva": "", 
-         "ime": "Socialdemokratska stranka Slovenije", 
-         "spremenila_v": [
-            27
-         ], 
-         "od": [
-            1990, 
-            2, 
-            24
-         ], 
-         "id": 16, 
-         "nastala_iz": [
-            15, 
-            43
-         ], 
-         "okrajsava": "SDSS"
-      }, 
-      "17": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Slovenska demokratska stranka", 
-         "spremenila_v": [], 
-         "od": [
-            2003, 
-            9, 
-            13
-         ], 
-         "id": 17, 
-         "nastala_iz": [
-            27
-         ], 
-         "okrajsava": "SDS"
-      }, 
-      "20": {
-         "do": [
-            2009, 
-            7, 
-            4
-         ], 
-         "barva": "", 
-         "ime": "Stranka mladih Slovenije", 
-         "spremenila_v": [
-            21
-         ], 
-         "od": [
-            2000, 
-            8, 
-            8
-         ], 
-         "id": 20, 
-         "nastala_iz": [], 
-         "okrajsava": "SMS"
-      }, 
-      "21": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Stranka mladih - Zeleni Evrope", 
-         "spremenila_v": [], 
-         "od": [
-            2009, 
-            7, 
-            4
-         ], 
-         "id": 21, 
-         "nastala_iz": [
-            20
-         ], 
-         "okrajsava": "SMS - Zeleni"
-      }, 
-      "22": {
-         "do": [
-            2008, 
-            1, 
-            10
-         ], 
-         "barva": "", 
-         "ime": "Aktivna Slovenija", 
-         "spremenila_v": [
-            5
-         ], 
-         "od": [
-            2004, 
-            5, 
-            8
-         ], 
-         "id": 22, 
-         "nastala_iz": [], 
-         "okrajsava": "AS"
-      }, 
-      "23": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Demokratska stranka Slovenije", 
-         "spremenila_v": [], 
-         "od": [
-            1994, 
-            3, 
-            12
-         ], 
-         "id": 23, 
-         "nastala_iz": [
-            24
-         ], 
-         "okrajsava": "DS"
-      }, 
-      "24": {
-         "do": [
-            1994, 
-            3, 
-            12
-         ], 
-         "barva": "", 
-         "ime": "Demokratska stranka", 
-         "spremenila_v": [
-            23
-         ], 
-         "od": [
-            1991, 
-            10, 
-            13
-         ], 
-         "id": 24, 
-         "nastala_iz": [
-            39
-         ], 
-         "okrajsava": "DS"
-      }, 
-      "25": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Zeleni Slovenije", 
-         "spremenila_v": [
-            13
-         ], 
-         "od": [
-            1989, 
-            6, 
-            11
-         ], 
-         "id": 25, 
-         "nastala_iz": [], 
-         "okrajsava": "Zeleni"
-      }, 
-      "26": {
-         "do": [
-            2002, 
-            2, 
-            28
-         ], 
-         "barva": "", 
-         "ime": "Stranka slovenskih narodnjakov", 
-         "spremenila_v": [
-            14
-         ], 
-         "od": [
-            2000, 
-            3, 
-            16
-         ], 
-         "id": 26, 
-         "nastala_iz": [
-            12
-         ], 
-         "okrajsava": "SSN"
-      }, 
-      "27": {
-         "do": [
-            2003, 
-            9, 
-            13
-         ], 
-         "barva": "", 
-         "ime": "Socialno demokratska stranka", 
-         "spremenila_v": [
-            17
-         ], 
-         "od": [
-            1996, 
-            3, 
-            23
-         ], 
-         "id": 27, 
-         "nastala_iz": [
-            16
-         ], 
-         "okrajsava": "SDS"
-      }, 
-      "28": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Lipa", 
-         "spremenila_v": [], 
-         "od": [
-            2008, 
-            3, 
-            6
-         ], 
-         "id": 28, 
-         "nastala_iz": [
-            3
-         ], 
-         "okrajsava": "Lipa"
-      }, 
-      "29": {
-         "do": [
-            1993, 
-            5, 
-            29
-         ], 
-         "barva": "", 
-         "ime": "Zveza komunistov Slovenije - Stranka demokrati\u010dne prenove", 
-         "spremenila_v": [
-            1
-         ], 
-         "od": [
-            1990, 
-            2, 
-            4
-         ], 
-         "id": 29, 
-         "nastala_iz": [], 
-         "okrajsava": "ZKS-SDP"
-      }, 
-      "30": {
-         "do": [
-            1993, 
-            5, 
-            29
-         ], 
-         "barva": "", 
-         "ime": "Socialdemokratska unija", 
-         "spremenila_v": [
-            1
-         ], 
-         "od": [
-            1990, 
-            12, 
-            4
-         ], 
-         "id": 30, 
-         "nastala_iz": [], 
-         "okrajsava": "SDU"
-      }, 
-      "31": {
-         "do": [
-            1993, 
-            5, 
-            29
-         ], 
-         "barva": "", 
-         "ime": "Delavska stranka", 
-         "spremenila_v": [
-            1
-         ], 
-         "od": [
-            1991, 
-            2, 
-            16
-         ], 
-         "id": 31, 
-         "nastala_iz": [], 
-         "okrajsava": "Delavska stranka"
-      }, 
-      "32": {
-         "do": [
-            1993, 
-            3, 
-            12
-         ], 
-         "barva": "", 
-         "ime": "Socialisti\u010dna stranka Slovenije", 
-         "spremenila_v": [
-            1, 
-            6
-         ], 
-         "od": [
-            1990, 
-            6, 
-            9
-         ], 
-         "id": 32, 
-         "nastala_iz": [], 
-         "okrajsava": "SSS"
-      }, 
-      "33": {
-         "do": [
-            1994, 
-            3, 
-            12
-         ], 
-         "barva": "", 
-         "ime": "Liberalno demokratska stranka", 
-         "spremenila_v": [
-            6
-         ], 
-         "od": [
-            1990, 
-            11, 
-            10
-         ], 
-         "id": 33, 
-         "nastala_iz": [
-            34
-         ], 
-         "okrajsava": "LDS"
-      }, 
-      "34": {
-         "do": [
-            1990, 
-            11, 
-            10
-         ], 
-         "barva": "", 
-         "ime": "Zveza socialisti\u010dne mladine Slovenije", 
-         "spremenila_v": [
-            33
-         ], 
-         "od": [
-            1974, 
-            10, 
-            4
-         ], 
-         "id": 34, 
-         "nastala_iz": [], 
-         "okrajsava": "ZSMS"
-      }, 
-      "35": {
-         "do": [
-            1990, 
-            2, 
-            1
-         ], 
-         "barva": "", 
-         "ime": "Slovenska kme\u010dka zveza", 
-         "spremenila_v": [
-            36
-         ], 
-         "od": [
-            1988, 
-            5, 
-            12
-         ], 
-         "id": 35, 
-         "nastala_iz": [], 
-         "okrajsava": "SKZ"
-      }, 
-      "36": {
-         "do": [
-            1992, 
-            6, 
-            27
-         ], 
-         "barva": "", 
-         "ime": "Slovenska kme\u010dka zveza - ljudska stranka", 
-         "spremenila_v": [
-            7
-         ], 
-         "od": [
-            1990, 
-            2, 
-            1
-         ], 
-         "id": 36, 
-         "nastala_iz": [
-            35
-         ], 
-         "okrajsava": "SKZ-LS"
-      }, 
-      "37": {
-         "do": [
-            1989, 
-            11, 
-            2
-         ], 
-         "barva": "", 
-         "ime": "Slovensko kr\u0161\u010dansko socialno gibanje", 
-         "spremenila_v": [
-            8
-         ], 
-         "od": [
-            1989, 
-            10, 
-            3
-         ], 
-         "id": 37, 
-         "nastala_iz": [], 
-         "okrajsava": "SKSG"
-      }, 
-      "38": {
-         "do": [
-            9999, 
-            12, 
-            31
-         ], 
-         "barva": "", 
-         "ime": "Stranka ekolo\u0161kih gibanj Slovenije", 
-         "spremenila_v": [], 
-         "od": [
-            2002, 
-            9, 
-            23
-         ], 
-         "id": 38, 
-         "nastala_iz": [], 
-         "okrajsava": "SEG"
-      }, 
-      "39": {
-         "do": [
-            1991, 
-            10, 
-            13
-         ], 
-         "barva": "", 
-         "ime": "Slovenska demokrati\u010dna zveza", 
-         "spremenila_v": [
-            24, 
-            40
-         ], 
-         "od": [
-            1989, 
-            1, 
-            11
-         ], 
-         "id": 39, 
-         "nastala_iz": [], 
-         "okrajsava": "SDZ"
-      }, 
-      "40": {
-         "do": [
-            1993, 
-            4, 
-            24
-         ], 
-         "barva": "", 
-         "ime": "Narodno demokratska stranka", 
-         "spremenila_v": [
-            41, 
-            42
-         ], 
-         "od": [
-            1991, 
-            10, 
-            13
-         ], 
-         "id": 40, 
-         "nastala_iz": [
-            39
-         ], 
-         "okrajsava": "NDS"
-      }, 
-      "41": {
-         "do": [
-            1994, 
-            7, 
-            16
-         ], 
-         "barva": "", 
-         "ime": "Narodna stranka slovenije", 
-         "spremenila_v": [], 
-         "od": [
-            1993, 
-            5, 
-            19
-         ], 
-         "id": 41, 
-         "nastala_iz": [
-            40
-         ], 
-         "okrajsava": "NSS"
-      }, 
-      "42": {
-         "do": [
-            1994, 
-            6, 
-            11
-         ], 
-         "barva": "", 
-         "ime": "Narodno demokratska stranka / SKD", 
-         "spremenila_v": [
-            43
-         ], 
-         "od": [
-            1993, 
-            4, 
-            24
-         ], 
-         "id": 42, 
-         "nastala_iz": [
-            40
-         ], 
-         "okrajsava": "NDS/SKD"
-      }, 
-      "43": {
-         "do": [
-            1995, 
-            5, 
-            27
-         ], 
-         "barva": "", 
-         "ime": "Narodno demokratska stranka", 
-         "spremenila_v": [
-            16
-         ], 
-         "od": [
-            1994, 
-            6, 
-            11
-         ], 
-         "id": 43, 
-         "nastala_iz": [
-            42
-         ], 
-         "okrajsava": "NDS"
+  "stranke_condensed": {
+    "1": [
+      {
+        "do": [
+          2005,
+          4,
+          2
+        ],
+        "barva": "",
+        "ime": "Združena lista socialnih demokratov",
+        "spremenila_v": [
+          2
+        ],
+        "od": [
+          1993,
+          5,
+          29
+        ],
+        "id": 1,
+        "nastala_iz": [
+          11,
+          29,
+          30,
+          31,
+          32
+        ],
+        "okrajsava": "ZLSD"
+      },
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "ff0000",
+        "ime": "Socialni demokrati",
+        "spremenila_v": [
+        ],
+        "od": [
+          2005,
+          4,
+          2
+        ],
+        "id": 2,
+        "nastala_iz": [
+          1
+        ],
+        "okrajsava": "SD"
       }
-   }
+    ],
+    "3": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "fff301",
+        "ime": "Slovenska nacionalna stranka",
+        "spremenila_v": [
+          12,
+          28
+        ],
+        "od": [
+          1991,
+          3,
+          17
+        ],
+        "id": 3,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SNS"
+      }
+    ],
+    "4": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Nova Slovenija - Krščanska ljudska stranka",
+        "spremenila_v": [
+        ],
+        "od": [
+          2000,
+          8,
+          4
+        ],
+        "id": 4,
+        "nastala_iz": [
+        ],
+        "okrajsava": "NSi"
+      }
+    ],
+    "5": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "f7971e",
+        "ime": "ZARES – nova politika",
+        "spremenila_v": [
+        ],
+        "od": [
+          2007,
+          10,
+          6
+        ],
+        "id": 5,
+        "nastala_iz": [
+          22
+        ],
+        "okrajsava": "Zares"
+      }
+    ],
+    "6": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "00adef",
+        "ime": "Liberalna demokracija Slovenije",
+        "spremenila_v": [
+        ],
+        "od": [
+          1994,
+          3,
+          12
+        ],
+        "id": 6,
+        "nastala_iz": [
+          13,
+          32,
+          33
+        ],
+        "okrajsava": "LDS"
+      }
+    ],
+    "9": [
+      {
+        "do": [
+          2002,
+          1,
+          31
+        ],
+        "barva": "",
+        "ime": "SLS+SKD Slovenska ljudska stranka",
+        "spremenila_v": [
+          10
+        ],
+        "od": [
+          2000,
+          4,
+          15
+        ],
+        "id": 9,
+        "nastala_iz": [
+          7,
+          8
+        ],
+        "okrajsava": "SLS+SKD"
+      },
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "60c000",
+        "ime": "Slovenska ljudska stranka",
+        "spremenila_v": [
+        ],
+        "od": [
+          2002,
+          1,
+          31
+        ],
+        "id": 10,
+        "nastala_iz": [
+          9
+        ],
+        "okrajsava": "SLS"
+      }
+    ],
+    "11": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "DeSUS - Demokratična stranka upokojencev Slovenije",
+        "spremenila_v": [
+          1
+        ],
+        "od": [
+          1991,
+          5,
+          30
+        ],
+        "id": 11,
+        "nastala_iz": [
+        ],
+        "okrajsava": "DeSUS"
+      }
+    ],
+    "12": [
+      {
+        "do": [
+          2000,
+          3,
+          16
+        ],
+        "barva": "",
+        "ime": "Slovenska nacionalna desnica",
+        "spremenila_v": [
+          26
+        ],
+        "od": [
+          1993,
+          6,
+          5
+        ],
+        "id": 12,
+        "nastala_iz": [
+          3
+        ],
+        "okrajsava": "SND"
+      },
+      {
+        "do": [
+          2002,
+          2,
+          28
+        ],
+        "barva": "",
+        "ime": "Stranka slovenskih narodnjakov",
+        "spremenila_v": [
+          14
+        ],
+        "od": [
+          2000,
+          3,
+          16
+        ],
+        "id": 26,
+        "nastala_iz": [
+          12
+        ],
+        "okrajsava": "SSN"
+      },
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Stranka slovenskega naroda",
+        "spremenila_v": [
+        ],
+        "od": [
+          2002,
+          2,
+          28
+        ],
+        "id": 14,
+        "nastala_iz": [
+          26
+        ],
+        "okrajsava": "SSN"
+      }
+    ],
+    "13": [
+      {
+        "do": [
+          1994,
+          3,
+          12
+        ],
+        "barva": "",
+        "ime": "Zeleni - ekološko socialna stranka",
+        "spremenila_v": [
+          6
+        ],
+        "od": [
+          1993,
+          3,
+          23
+        ],
+        "id": 13,
+        "nastala_iz": [
+          25
+        ],
+        "okrajsava": "Zeleni - ESS"
+      }
+    ],
+    "15": [
+      {
+        "do": [
+          1990,
+          2,
+          24
+        ],
+        "barva": "",
+        "ime": "Socialdemokratska zveza Slovenije",
+        "spremenila_v": [
+          16
+        ],
+        "od": [
+          1989,
+          2,
+          16
+        ],
+        "id": 15,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SDZS"
+      },
+      {
+        "do": [
+          1996,
+          3,
+          23
+        ],
+        "barva": "",
+        "ime": "Socialdemokratska stranka Slovenije",
+        "spremenila_v": [
+          27
+        ],
+        "od": [
+          1990,
+          2,
+          24
+        ],
+        "id": 16,
+        "nastala_iz": [
+          15,
+          43
+        ],
+        "okrajsava": "SDSS"
+      },
+      {
+        "do": [
+          2003,
+          9,
+          13
+        ],
+        "barva": "",
+        "ime": "Socialno demokratska stranka",
+        "spremenila_v": [
+          17
+        ],
+        "od": [
+          1996,
+          3,
+          23
+        ],
+        "id": 27,
+        "nastala_iz": [
+          16
+        ],
+        "okrajsava": "SDS"
+      },
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "004a99",
+        "ime": "Slovenska demokratska stranka",
+        "spremenila_v": [
+        ],
+        "od": [
+          2003,
+          9,
+          13
+        ],
+        "id": 17,
+        "nastala_iz": [
+          27
+        ],
+        "okrajsava": "SDS"
+      }
+    ],
+    "20": [
+      {
+        "do": [
+          2009,
+          7,
+          4
+        ],
+        "barva": "",
+        "ime": "Stranka mladih Slovenije",
+        "spremenila_v": [
+          21
+        ],
+        "od": [
+          2000,
+          8,
+          8
+        ],
+        "id": 20,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SMS"
+      },
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Stranka mladih - Zeleni Evrope",
+        "spremenila_v": [
+        ],
+        "od": [
+          2009,
+          7,
+          4
+        ],
+        "id": 21,
+        "nastala_iz": [
+          20
+        ],
+        "okrajsava": "SMS - Zeleni"
+      }
+    ],
+    "22": [
+      {
+        "do": [
+          2008,
+          1,
+          10
+        ],
+        "barva": "",
+        "ime": "Aktivna Slovenija",
+        "spremenila_v": [
+          5
+        ],
+        "od": [
+          2004,
+          5,
+          8
+        ],
+        "id": 22,
+        "nastala_iz": [
+        ],
+        "okrajsava": "AS"
+      }
+    ],
+    "23": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Demokratska stranka Slovenije",
+        "spremenila_v": [
+        ],
+        "od": [
+          1994,
+          3,
+          12
+        ],
+        "id": 23,
+        "nastala_iz": [
+          24
+        ],
+        "okrajsava": "DS"
+      }
+    ],
+    "24": [
+      {
+        "do": [
+          1994,
+          3,
+          12
+        ],
+        "barva": "",
+        "ime": "Demokratska stranka",
+        "spremenila_v": [
+          23
+        ],
+        "od": [
+          1991,
+          10,
+          13
+        ],
+        "id": 24,
+        "nastala_iz": [
+          39
+        ],
+        "okrajsava": "DS"
+      }
+    ],
+    "25": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Zeleni Slovenije",
+        "spremenila_v": [
+          13
+        ],
+        "od": [
+          1989,
+          6,
+          11
+        ],
+        "id": 25,
+        "nastala_iz": [
+        ],
+        "okrajsava": "Zeleni"
+      }
+    ],
+    "28": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Lipa",
+        "spremenila_v": [
+        ],
+        "od": [
+          2008,
+          3,
+          6
+        ],
+        "id": 28,
+        "nastala_iz": [
+          3
+        ],
+        "okrajsava": "Lipa"
+      }
+    ],
+    "29": [
+      {
+        "do": [
+          1993,
+          5,
+          29
+        ],
+        "barva": "",
+        "ime": "Zveza komunistov Slovenije - Stranka demokratične prenove",
+        "spremenila_v": [
+          1
+        ],
+        "od": [
+          1990,
+          2,
+          4
+        ],
+        "id": 29,
+        "nastala_iz": [
+        ],
+        "okrajsava": "ZKS-SDP"
+      }
+    ],
+    "30": [
+      {
+        "do": [
+          1993,
+          5,
+          29
+        ],
+        "barva": "",
+        "ime": "Socialdemokratska unija",
+        "spremenila_v": [
+          1
+        ],
+        "od": [
+          1990,
+          12,
+          4
+        ],
+        "id": 30,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SDU"
+      }
+    ],
+    "31": [
+      {
+        "do": [
+          1993,
+          5,
+          29
+        ],
+        "barva": "",
+        "ime": "Delavska stranka",
+        "spremenila_v": [
+          1
+        ],
+        "od": [
+          1991,
+          2,
+          16
+        ],
+        "id": 31,
+        "nastala_iz": [
+        ],
+        "okrajsava": "Delavska stranka"
+      }
+    ],
+    "32": [
+      {
+        "do": [
+          1993,
+          3,
+          12
+        ],
+        "barva": "",
+        "ime": "Socialistična stranka Slovenije",
+        "spremenila_v": [
+          1,
+          6
+        ],
+        "od": [
+          1990,
+          6,
+          9
+        ],
+        "id": 32,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SSS"
+      }
+    ],
+    "34": [
+      {
+        "do": [
+          1990,
+          11,
+          10
+        ],
+        "barva": "",
+        "ime": "Zveza socialistične mladine Slovenije",
+        "spremenila_v": [
+          33
+        ],
+        "od": [
+          1974,
+          10,
+          4
+        ],
+        "id": 34,
+        "nastala_iz": [
+        ],
+        "okrajsava": "ZSMS"
+      },
+      {
+        "do": [
+          1994,
+          3,
+          12
+        ],
+        "barva": "",
+        "ime": "Liberalno demokratska stranka",
+        "spremenila_v": [
+          6
+        ],
+        "od": [
+          1990,
+          11,
+          10
+        ],
+        "id": 33,
+        "nastala_iz": [
+          34
+        ],
+        "okrajsava": "LDS"
+      }
+    ],
+    "35": [
+      {
+        "do": [
+          1990,
+          2,
+          1
+        ],
+        "barva": "",
+        "ime": "Slovenska kmečka zveza",
+        "spremenila_v": [
+          36
+        ],
+        "od": [
+          1988,
+          5,
+          12
+        ],
+        "id": 35,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SKZ"
+      },
+      {
+        "do": [
+          1992,
+          6,
+          27
+        ],
+        "barva": "",
+        "ime": "Slovenska kmečka zveza - ljudska stranka",
+        "spremenila_v": [
+          7
+        ],
+        "od": [
+          1990,
+          2,
+          1
+        ],
+        "id": 36,
+        "nastala_iz": [
+          35
+        ],
+        "okrajsava": "SKZ-LS"
+      },
+      {
+        "do": [
+          2000,
+          4,
+          15
+        ],
+        "barva": "",
+        "ime": "Slovenska ljudska stranka",
+        "spremenila_v": [
+          9
+        ],
+        "od": [
+          1992,
+          6,
+          27
+        ],
+        "id": 7,
+        "nastala_iz": [
+          36
+        ],
+        "okrajsava": "SLS"
+      }
+    ],
+    "37": [
+      {
+        "do": [
+          1989,
+          11,
+          2
+        ],
+        "barva": "",
+        "ime": "Slovensko krščansko socialno gibanje",
+        "spremenila_v": [
+          8
+        ],
+        "od": [
+          1989,
+          10,
+          3
+        ],
+        "id": 37,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SKSG"
+      },
+      {
+        "do": [
+          2000,
+          4,
+          15
+        ],
+        "barva": "",
+        "ime": "Slovenski krščanski demokrati",
+        "spremenila_v": [
+          9
+        ],
+        "od": [
+          1989,
+          11,
+          2
+        ],
+        "id": 8,
+        "nastala_iz": [
+          37
+        ],
+        "okrajsava": "SKD"
+      }
+    ],
+    "38": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Stranka ekoloških gibanj Slovenije",
+        "spremenila_v": [
+        ],
+        "od": [
+          2002,
+          9,
+          23
+        ],
+        "id": 38,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SEG"
+      }
+    ],
+    "39": [
+      {
+        "do": [
+          1991,
+          10,
+          13
+        ],
+        "barva": "",
+        "ime": "Slovenska demokratična zveza",
+        "spremenila_v": [
+          24,
+          40
+        ],
+        "od": [
+          1989,
+          1,
+          11
+        ],
+        "id": 39,
+        "nastala_iz": [
+        ],
+        "okrajsava": "SDZ"
+      }
+    ],
+    "40": [
+      {
+        "do": [
+          1993,
+          4,
+          24
+        ],
+        "barva": "",
+        "ime": "Narodno demokratska stranka",
+        "spremenila_v": [
+          41,
+          42
+        ],
+        "od": [
+          1991,
+          10,
+          13
+        ],
+        "id": 40,
+        "nastala_iz": [
+          39
+        ],
+        "okrajsava": "NDS"
+      },
+      {
+        "do": [
+          1994,
+          6,
+          11
+        ],
+        "barva": "",
+        "ime": "Narodno demokratska stranka / SKD",
+        "spremenila_v": [
+          43
+        ],
+        "od": [
+          1993,
+          4,
+          24
+        ],
+        "id": 42,
+        "nastala_iz": [
+          40
+        ],
+        "okrajsava": "NDS/SKD"
+      },
+      {
+        "do": [
+          1995,
+          5,
+          27
+        ],
+        "barva": "",
+        "ime": "Narodno demokratska stranka",
+        "spremenila_v": [
+          16
+        ],
+        "od": [
+          1994,
+          6,
+          11
+        ],
+        "id": 43,
+        "nastala_iz": [
+          42
+        ],
+        "okrajsava": "NDS"
+      }
+    ],
+    "41": [
+      {
+        "do": [
+          1994,
+          7,
+          16
+        ],
+        "barva": "",
+        "ime": "Narodna stranka slovenije",
+        "spremenila_v": [
+        ],
+        "od": [
+          1993,
+          5,
+          19
+        ],
+        "id": 41,
+        "nastala_iz": [
+          40
+        ],
+        "okrajsava": "NSS"
+      }
+    ],
+    "44": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Narodnostne skupnosti",
+        "spremenila_v": [
+        ],
+        "od": [
+          1992,
+          12,
+          23
+        ],
+        "id": 44,
+        "nastala_iz": [
+        ],
+        "okrajsava": "NS"
+      }
+    ],
+    "45": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Nepovezani poslanci",
+        "spremenila_v": [
+        ],
+        "od": [
+          1992,
+          12,
+          23
+        ],
+        "id": 45,
+        "nastala_iz": [
+        ],
+        "okrajsava": "NP"
+      }
+    ],
+    "46": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Lista Zorana Jankovića - Pozitivna Slovenija",
+        "spremenila_v": [
+        ],
+        "od": [
+          2011,
+          10,
+          26
+        ],
+        "id": 46,
+        "nastala_iz": [
+        ],
+        "okrajsava": "LZJ-PS"
+      }
+    ],
+    "47": [
+      {
+        "do": [
+          9999,
+          12,
+          31
+        ],
+        "barva": "",
+        "ime": "Državljanska lista Gregorja Viranta",
+        "spremenila_v": [
+        ],
+        "od": [
+          2011,
+          10,
+          27
+        ],
+        "id": 47,
+        "nastala_iz": [
+        ],
+        "okrajsava": "LGV"
+      }
+    ]
+  },
+  "stranke_all": {
+    "1": {
+      "do": [
+        2005,
+        4,
+        2
+      ],
+      "barva": "",
+      "ime": "Združena lista socialnih demokratov",
+      "spremenila_v": [
+        2
+      ],
+      "od": [
+        1993,
+        5,
+        29
+      ],
+      "id": 1,
+      "nastala_iz": [
+        11,
+        29,
+        30,
+        31,
+        32
+      ],
+      "okrajsava": "ZLSD"
+    },
+    "2": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "ff0000",
+      "ime": "Socialni demokrati",
+      "spremenila_v": [
+      ],
+      "od": [
+        2005,
+        4,
+        2
+      ],
+      "id": 2,
+      "nastala_iz": [
+        1
+      ],
+      "okrajsava": "SD"
+    },
+    "3": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "fff301",
+      "ime": "Slovenska nacionalna stranka",
+      "spremenila_v": [
+        12,
+        28
+      ],
+      "od": [
+        1991,
+        3,
+        17
+      ],
+      "id": 3,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SNS"
+    },
+    "4": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Nova Slovenija - Krščanska ljudska stranka",
+      "spremenila_v": [
+      ],
+      "od": [
+        2000,
+        8,
+        4
+      ],
+      "id": 4,
+      "nastala_iz": [
+      ],
+      "okrajsava": "NSi"
+    },
+    "5": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "f7971e",
+      "ime": "ZARES – nova politika",
+      "spremenila_v": [
+      ],
+      "od": [
+        2007,
+        10,
+        6
+      ],
+      "id": 5,
+      "nastala_iz": [
+        22
+      ],
+      "okrajsava": "Zares"
+    },
+    "6": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "00adef",
+      "ime": "Liberalna demokracija Slovenije",
+      "spremenila_v": [
+      ],
+      "od": [
+        1994,
+        3,
+        12
+      ],
+      "id": 6,
+      "nastala_iz": [
+        13,
+        32,
+        33
+      ],
+      "okrajsava": "LDS"
+    },
+    "7": {
+      "do": [
+        2000,
+        4,
+        15
+      ],
+      "barva": "",
+      "ime": "Slovenska ljudska stranka",
+      "spremenila_v": [
+        9
+      ],
+      "od": [
+        1992,
+        6,
+        27
+      ],
+      "id": 7,
+      "nastala_iz": [
+        36
+      ],
+      "okrajsava": "SLS"
+    },
+    "8": {
+      "do": [
+        2000,
+        4,
+        15
+      ],
+      "barva": "",
+      "ime": "Slovenski krščanski demokrati",
+      "spremenila_v": [
+        9
+      ],
+      "od": [
+        1989,
+        11,
+        2
+      ],
+      "id": 8,
+      "nastala_iz": [
+        37
+      ],
+      "okrajsava": "SKD"
+    },
+    "9": {
+      "do": [
+        2002,
+        1,
+        31
+      ],
+      "barva": "",
+      "ime": "SLS+SKD Slovenska ljudska stranka",
+      "spremenila_v": [
+        10
+      ],
+      "od": [
+        2000,
+        4,
+        15
+      ],
+      "id": 9,
+      "nastala_iz": [
+        7,
+        8
+      ],
+      "okrajsava": "SLS+SKD"
+    },
+    "10": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "60c000",
+      "ime": "Slovenska ljudska stranka",
+      "spremenila_v": [
+      ],
+      "od": [
+        2002,
+        1,
+        31
+      ],
+      "id": 10,
+      "nastala_iz": [
+        9
+      ],
+      "okrajsava": "SLS"
+    },
+    "11": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "DeSUS - Demokratična stranka upokojencev Slovenije",
+      "spremenila_v": [
+        1
+      ],
+      "od": [
+        1991,
+        5,
+        30
+      ],
+      "id": 11,
+      "nastala_iz": [
+      ],
+      "okrajsava": "DeSUS"
+    },
+    "12": {
+      "do": [
+        2000,
+        3,
+        16
+      ],
+      "barva": "",
+      "ime": "Slovenska nacionalna desnica",
+      "spremenila_v": [
+        26
+      ],
+      "od": [
+        1993,
+        6,
+        5
+      ],
+      "id": 12,
+      "nastala_iz": [
+        3
+      ],
+      "okrajsava": "SND"
+    },
+    "13": {
+      "do": [
+        1994,
+        3,
+        12
+      ],
+      "barva": "",
+      "ime": "Zeleni - ekološko socialna stranka",
+      "spremenila_v": [
+        6
+      ],
+      "od": [
+        1993,
+        3,
+        23
+      ],
+      "id": 13,
+      "nastala_iz": [
+        25
+      ],
+      "okrajsava": "Zeleni - ESS"
+    },
+    "14": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Stranka slovenskega naroda",
+      "spremenila_v": [
+      ],
+      "od": [
+        2002,
+        2,
+        28
+      ],
+      "id": 14,
+      "nastala_iz": [
+        26
+      ],
+      "okrajsava": "SSN"
+    },
+    "15": {
+      "do": [
+        1990,
+        2,
+        24
+      ],
+      "barva": "",
+      "ime": "Socialdemokratska zveza Slovenije",
+      "spremenila_v": [
+        16
+      ],
+      "od": [
+        1989,
+        2,
+        16
+      ],
+      "id": 15,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SDZS"
+    },
+    "16": {
+      "do": [
+        1996,
+        3,
+        23
+      ],
+      "barva": "",
+      "ime": "Socialdemokratska stranka Slovenije",
+      "spremenila_v": [
+        27
+      ],
+      "od": [
+        1990,
+        2,
+        24
+      ],
+      "id": 16,
+      "nastala_iz": [
+        15,
+        43
+      ],
+      "okrajsava": "SDSS"
+    },
+    "17": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "004a99",
+      "ime": "Slovenska demokratska stranka",
+      "spremenila_v": [
+      ],
+      "od": [
+        2003,
+        9,
+        13
+      ],
+      "id": 17,
+      "nastala_iz": [
+        27
+      ],
+      "okrajsava": "SDS"
+    },
+    "20": {
+      "do": [
+        2009,
+        7,
+        4
+      ],
+      "barva": "",
+      "ime": "Stranka mladih Slovenije",
+      "spremenila_v": [
+        21
+      ],
+      "od": [
+        2000,
+        8,
+        8
+      ],
+      "id": 20,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SMS"
+    },
+    "21": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Stranka mladih - Zeleni Evrope",
+      "spremenila_v": [
+      ],
+      "od": [
+        2009,
+        7,
+        4
+      ],
+      "id": 21,
+      "nastala_iz": [
+        20
+      ],
+      "okrajsava": "SMS - Zeleni"
+    },
+    "22": {
+      "do": [
+        2008,
+        1,
+        10
+      ],
+      "barva": "",
+      "ime": "Aktivna Slovenija",
+      "spremenila_v": [
+        5
+      ],
+      "od": [
+        2004,
+        5,
+        8
+      ],
+      "id": 22,
+      "nastala_iz": [
+      ],
+      "okrajsava": "AS"
+    },
+    "23": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Demokratska stranka Slovenije",
+      "spremenila_v": [
+      ],
+      "od": [
+        1994,
+        3,
+        12
+      ],
+      "id": 23,
+      "nastala_iz": [
+        24
+      ],
+      "okrajsava": "DS"
+    },
+    "24": {
+      "do": [
+        1994,
+        3,
+        12
+      ],
+      "barva": "",
+      "ime": "Demokratska stranka",
+      "spremenila_v": [
+        23
+      ],
+      "od": [
+        1991,
+        10,
+        13
+      ],
+      "id": 24,
+      "nastala_iz": [
+        39
+      ],
+      "okrajsava": "DS"
+    },
+    "25": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Zeleni Slovenije",
+      "spremenila_v": [
+        13
+      ],
+      "od": [
+        1989,
+        6,
+        11
+      ],
+      "id": 25,
+      "nastala_iz": [
+      ],
+      "okrajsava": "Zeleni"
+    },
+    "26": {
+      "do": [
+        2002,
+        2,
+        28
+      ],
+      "barva": "",
+      "ime": "Stranka slovenskih narodnjakov",
+      "spremenila_v": [
+        14
+      ],
+      "od": [
+        2000,
+        3,
+        16
+      ],
+      "id": 26,
+      "nastala_iz": [
+        12
+      ],
+      "okrajsava": "SSN"
+    },
+    "27": {
+      "do": [
+        2003,
+        9,
+        13
+      ],
+      "barva": "",
+      "ime": "Socialno demokratska stranka",
+      "spremenila_v": [
+        17
+      ],
+      "od": [
+        1996,
+        3,
+        23
+      ],
+      "id": 27,
+      "nastala_iz": [
+        16
+      ],
+      "okrajsava": "SDS"
+    },
+    "28": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Lipa",
+      "spremenila_v": [
+      ],
+      "od": [
+        2008,
+        3,
+        6
+      ],
+      "id": 28,
+      "nastala_iz": [
+        3
+      ],
+      "okrajsava": "Lipa"
+    },
+    "29": {
+      "do": [
+        1993,
+        5,
+        29
+      ],
+      "barva": "",
+      "ime": "Zveza komunistov Slovenije - Stranka demokratične prenove",
+      "spremenila_v": [
+        1
+      ],
+      "od": [
+        1990,
+        2,
+        4
+      ],
+      "id": 29,
+      "nastala_iz": [
+      ],
+      "okrajsava": "ZKS-SDP"
+    },
+    "30": {
+      "do": [
+        1993,
+        5,
+        29
+      ],
+      "barva": "",
+      "ime": "Socialdemokratska unija",
+      "spremenila_v": [
+        1
+      ],
+      "od": [
+        1990,
+        12,
+        4
+      ],
+      "id": 30,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SDU"
+    },
+    "31": {
+      "do": [
+        1993,
+        5,
+        29
+      ],
+      "barva": "",
+      "ime": "Delavska stranka",
+      "spremenila_v": [
+        1
+      ],
+      "od": [
+        1991,
+        2,
+        16
+      ],
+      "id": 31,
+      "nastala_iz": [
+      ],
+      "okrajsava": "Delavska stranka"
+    },
+    "32": {
+      "do": [
+        1993,
+        3,
+        12
+      ],
+      "barva": "",
+      "ime": "Socialistična stranka Slovenije",
+      "spremenila_v": [
+        1,
+        6
+      ],
+      "od": [
+        1990,
+        6,
+        9
+      ],
+      "id": 32,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SSS"
+    },
+    "33": {
+      "do": [
+        1994,
+        3,
+        12
+      ],
+      "barva": "",
+      "ime": "Liberalno demokratska stranka",
+      "spremenila_v": [
+        6
+      ],
+      "od": [
+        1990,
+        11,
+        10
+      ],
+      "id": 33,
+      "nastala_iz": [
+        34
+      ],
+      "okrajsava": "LDS"
+    },
+    "34": {
+      "do": [
+        1990,
+        11,
+        10
+      ],
+      "barva": "",
+      "ime": "Zveza socialistične mladine Slovenije",
+      "spremenila_v": [
+        33
+      ],
+      "od": [
+        1974,
+        10,
+        4
+      ],
+      "id": 34,
+      "nastala_iz": [
+      ],
+      "okrajsava": "ZSMS"
+    },
+    "35": {
+      "do": [
+        1990,
+        2,
+        1
+      ],
+      "barva": "",
+      "ime": "Slovenska kmečka zveza",
+      "spremenila_v": [
+        36
+      ],
+      "od": [
+        1988,
+        5,
+        12
+      ],
+      "id": 35,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SKZ"
+    },
+    "36": {
+      "do": [
+        1992,
+        6,
+        27
+      ],
+      "barva": "",
+      "ime": "Slovenska kmečka zveza - ljudska stranka",
+      "spremenila_v": [
+        7
+      ],
+      "od": [
+        1990,
+        2,
+        1
+      ],
+      "id": 36,
+      "nastala_iz": [
+        35
+      ],
+      "okrajsava": "SKZ-LS"
+    },
+    "37": {
+      "do": [
+        1989,
+        11,
+        2
+      ],
+      "barva": "",
+      "ime": "Slovensko krščansko socialno gibanje",
+      "spremenila_v": [
+        8
+      ],
+      "od": [
+        1989,
+        10,
+        3
+      ],
+      "id": 37,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SKSG"
+    },
+    "38": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Stranka ekoloških gibanj Slovenije",
+      "spremenila_v": [
+      ],
+      "od": [
+        2002,
+        9,
+        23
+      ],
+      "id": 38,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SEG"
+    },
+    "39": {
+      "do": [
+        1991,
+        10,
+        13
+      ],
+      "barva": "",
+      "ime": "Slovenska demokratična zveza",
+      "spremenila_v": [
+        24,
+        40
+      ],
+      "od": [
+        1989,
+        1,
+        11
+      ],
+      "id": 39,
+      "nastala_iz": [
+      ],
+      "okrajsava": "SDZ"
+    },
+    "40": {
+      "do": [
+        1993,
+        4,
+        24
+      ],
+      "barva": "",
+      "ime": "Narodno demokratska stranka",
+      "spremenila_v": [
+        41,
+        42
+      ],
+      "od": [
+        1991,
+        10,
+        13
+      ],
+      "id": 40,
+      "nastala_iz": [
+        39
+      ],
+      "okrajsava": "NDS"
+    },
+    "41": {
+      "do": [
+        1994,
+        7,
+        16
+      ],
+      "barva": "",
+      "ime": "Narodna stranka slovenije",
+      "spremenila_v": [
+      ],
+      "od": [
+        1993,
+        5,
+        19
+      ],
+      "id": 41,
+      "nastala_iz": [
+        40
+      ],
+      "okrajsava": "NSS"
+    },
+    "42": {
+      "do": [
+        1994,
+        6,
+        11
+      ],
+      "barva": "",
+      "ime": "Narodno demokratska stranka / SKD",
+      "spremenila_v": [
+        43
+      ],
+      "od": [
+        1993,
+        4,
+        24
+      ],
+      "id": 42,
+      "nastala_iz": [
+        40
+      ],
+      "okrajsava": "NDS/SKD"
+    },
+    "43": {
+      "do": [
+        1995,
+        5,
+        27
+      ],
+      "barva": "",
+      "ime": "Narodno demokratska stranka",
+      "spremenila_v": [
+        16
+      ],
+      "od": [
+        1994,
+        6,
+        11
+      ],
+      "id": 43,
+      "nastala_iz": [
+        42
+      ],
+      "okrajsava": "NDS"
+    },
+    "44": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Narodnostne skupnosti",
+      "spremenila_v": [
+      ],
+      "od": [
+        1992,
+        12,
+        23
+      ],
+      "id": 44,
+      "nastala_iz": [
+      ],
+      "okrajsava": "NS"
+    },
+    "45": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Nepovezani poslanci",
+      "spremenila_v": [
+      ],
+      "od": [
+        1992,
+        12,
+        23
+      ],
+      "id": 45,
+      "nastala_iz": [
+      ],
+      "okrajsava": "NP"
+    },
+    "46": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Lista Zorana Jankovića - Pozitivna Slovenija",
+      "spremenila_v": [
+      ],
+      "od": [
+        2011,
+        10,
+        26
+      ],
+      "id": 46,
+      "nastala_iz": [
+      ],
+      "okrajsava": "LZJ-PS"
+    },
+    "47": {
+      "do": [
+        9999,
+        12,
+        31
+      ],
+      "barva": "",
+      "ime": "Državljanska lista Gregorja Viranta",
+      "spremenila_v": [
+      ],
+      "od": [
+        2011,
+        10,
+        27
+      ],
+      "id": 47,
+      "nastala_iz": [
+      ],
+      "okrajsava": "LGV"
+    }
+  }
 }

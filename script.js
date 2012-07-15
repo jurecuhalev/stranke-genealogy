@@ -89,11 +89,10 @@ $(document).ready(function() {
                     .attr("stroke-width", '6')
                     .attr("id", function(d) { return "stranka_"+d.id; })
                     .on('mouseover', function(d,i){
-                        $('#title').html(d.ime + ' ('+d.okrajsava+')');
+                        $('#title').html(d.id + " - " + d.ime + ' ('+d.okrajsava+')');
                         $(this).attr("stroke", 'red');
                     })
                     .on('mouseout', function(d,i){
-                        console.log('leave');
                         $(this).attr("stroke", '#ccc');
                     })
 
